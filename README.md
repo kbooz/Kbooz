@@ -1,4 +1,6 @@
-### Hi there 👋
+### Yo, I'm Lucas 👋
+
+🌐 With over 10 years of experience in software development, I've had the opportunity to work as both a front-end and back-end developer at renowned companies such as TV Globo, Accenture, Huge Inc, and Numa. Currently, I am working as a Lead Engineer at [Gateway](https://github.com/Gateway-DAO/).
 
 <!--
 **kbooz/Kbooz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
