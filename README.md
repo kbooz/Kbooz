@@ -4,4 +4,4 @@
 
 🛠️ Working as a Lead Web Engineer at [Gateway](https://github.com/Gateway-DAO/).
 
-🤓 Expertize on: Fullstack Javascript Development, focused on User Experience. React + NextJS, Typescript, NodeJS.
+🤓 Expertize on: Fullstack Javascript Development, focused on User Experience. React + NextJS, Typescript, NodeJS. Currently working with Rust :crab:
