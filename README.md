@@ -9,7 +9,7 @@
 
 🚀 I'm passionate about creating high-quality software that is both user-friendly and scalable. I'm always looking for new challenges and opportunities to grow as a developer.
 
-🛠️ Working as a Sr Web Engineer at [Metalab](https://github.com/Metalab/).
+🛠️ Working as a Sr Web Engineer at [Metalab](https://github.com/metalabdesign/).
 
 </p>
 <br/><br/>
