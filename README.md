@@ -43,17 +43,3 @@
 ![rust](https://skillicons.dev/icons?i=rust)
 ![solidity](https://skillicons.dev/icons?i=solidity)
 ![golang](https://skillicons.dev/icons?i=golang)
-<br/><br/>
-
-
-
-<div align="center">
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-
-<p align="center">
-  <img
-    src="https://profile-counter.glitch.me/kbooz/count.svg"
-    alt="Ilustração do número de visitantes no perfil"
-  />
-</p>
